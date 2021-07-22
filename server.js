@@ -44,4 +44,3 @@ var server = http.createServer(function(request, response){
 server.listen(port)
 console.log('监听 ' + port + ' 成功\n请把胖虎狂扁后打开 http://localhost:' + port)
 
-# node-demo-1
